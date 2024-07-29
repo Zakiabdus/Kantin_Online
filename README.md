@@ -6,3 +6,8 @@ Nama Anggota :  Zaki Abdussalam 2203421030
 
 Aplikasi yang akan saya buat kali ini adalah apalikasi yang dapat digunakan untuk memesan menu kantin/cafe.
 aplikasi ini juga punya beberapa fitur seperti laporan dan kasir.
+
+Akun Admin : 
+username :Zaki
+pw: 123
+
